@@ -16,11 +16,11 @@ A sleek and responsive web application for hassle-free currency conversion, deve
 
 ## 🛠️ Tech Stack
 
-| Layer         | Tools Used                      |
+| Layer         | Tools Used                       |
 |---------------|----------------------------------|
 | Frontend      | HTML, CSS, JavaScript            |
-| API Integration | Free currency conversion API (e.g. exchangerate-api.com or similar) |
-| Deployment    | GitHub Pages (recommended)       |
+| API Integration | Free currency conversion API   |
+| Deployment    | GitHub Pages                     |
 
 ---
 
